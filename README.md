@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hemashree</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h3 align="center">A passionate Frontend || Blockchain developer from India</h3>
 
-- 🔭 I’m currently working on **AI & Blockchain**
+- 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **Blockchain & AI**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [hemashree.io](hemashree.io)
 
-- 💬 Ask me about **Blockchain & Python**
+- 💬 Ask me about **Blockchain & MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
